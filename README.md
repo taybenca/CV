@@ -70,9 +70,9 @@ BS Nutrition Sciences, specialising in Food Science
 
 ### <a name="my_free_time">My Free Time</a>
 
-- Dog Sitting
-- Gardening
-- Cooking
+- Dog Sitting 🐶
+- Gardening 🌱
+- Cooking 🥣
 
 [1]: https://github.com/taybenca/student-directory
 [2]: https://github.com/taybenca/fizzbuzz
