@@ -23,7 +23,7 @@ My goal for the next three months is to be able to write a tested and reusable, 
 Name | Description | Tech/Tools
 --- | --- | --- 
 [Student Directory][1] | The student directory script allows you to manage the list of students enrolled at Villains Academy| <img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-[FizzBuzz][2] | My first Test Driven Development (TDD) and Pair Programming over FizzBuzz| <img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> <img align="center" alt="Tay-Rspec" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
+[FizzBuzz][2] | My first Test Driven Development (TDD) and Pair Programming over FizzBuzz| <img align="center" alt="Tay-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> <img align="center" alt="Tay-Rspec" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
           
 
 ***
