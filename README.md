@@ -49,7 +49,7 @@ Highly selective 12 week intensive coding bootcamp
 - Command Line
 - Version Control
 - Use of Ruby to solving problems
-- Test Driven Development
+- Test Driven Development (RSpec)
 - Pair Programming
 
 #### Federal University of the State of Rio de Janeiro (November 2012 to August 2018)
