@@ -22,9 +22,8 @@ My goal for the next three months is to be able to write a tested and reusable, 
 ### <a name="projects">Projects</a>
 Name | Description | Tech | Test
 --- | --- | --- | ---
-[Student Directory][1] | The student directory script allows you to manage the list of students enrolled at Villains Academy| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
-[FizzBuzz][2] | My first Test Driven Development (RSpec) and Pair Programming over FizzBuzz| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"> | <img align="center" alt="Tay-Rspec" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
-          
+[Student Directory][1] | The student directory script allows you to manage the list of students enrolled at Villains Academy| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
+[FizzBuzz][2] | My first Test Driven Development (RSpec) and Pair Programming over FizzBuzz| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
 
 ***
 
