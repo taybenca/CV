@@ -37,6 +37,8 @@ I also consider times when I'm fixing a mistake due to my attention.
 #### Teamwork
 Working together because the team has the same goal is the best way to get the result most effectively and efficiently.
 
+### Languages
+Portuguese (Native) | English (Fluent) | Spanish (Basic)
 ***
 
 ### <a name="education">Education</a>
