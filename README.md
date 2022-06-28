@@ -25,6 +25,7 @@ Name | Description | Tech | Test
 --- | --- | --- | ---
 [Student Directory][1] | The student directory script allows you to manage the list of students enrolled at Villains Academy| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
 [FizzBuzz][2] | My first Test Driven Development (RSpec) and Pair Programming over FizzBuzz| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
+[TakeAway][3] | Allows you to place your order and receive SMS with a delivery time | <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> <img align="center" alt="Tay-Twilio" height="20" width="60" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
 
 ***
 
@@ -78,3 +79,4 @@ BS Nutrition Sciences, specialising in Food Science
 
 [1]: https://github.com/taybenca/student-directory
 [2]: https://github.com/taybenca/fizzbuzz
+[3]: https://github.com/taybenca/takeaway
