@@ -21,11 +21,12 @@ My goal for the next three months is to be able to write a tested and reusable, 
 
 
 ### <a name="projects">Projects</a>
-Name | Description | Tech | Test
---- | --- | --- | ---
+Name | Description | Lang | Test | Tech
+--- | --- | --- | --- | ---
 [Student Directory][1] | The student directory script allows you to manage the list of students enrolled at Villains Academy| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
 [FizzBuzz][2] | My first Test Driven Development (RSpec) and Pair Programming over FizzBuzz| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
-[TakeAway][3] | Allows you to place your order and receive SMS with a delivery time | <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> <img align="center" alt="Tay-Twilio" height="20" width="60" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
+[TakeAway][3] | Allows you to place your order and receive SMS with a delivery time | <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" /> | <img align="center" alt="Tay-Twilio" height="25" width="80" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
+[MakersBnB][4] | a Clone of Airbnb - Group project |  <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" /> | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 ***
 
@@ -80,3 +81,4 @@ BS Nutrition Sciences, specialising in Food Science
 [1]: https://github.com/taybenca/student-directory
 [2]: https://github.com/taybenca/fizzbuzz
 [3]: https://github.com/taybenca/takeaway
+[4]: https://github.com/meddydev/Airbnb-Clone
