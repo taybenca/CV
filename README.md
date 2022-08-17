@@ -2,9 +2,9 @@
 
 A Software Engineer student passionate about front-end web development. 
 
-I have been learning how to use the command line and Ruby for the past four weeks at Makers Academy. 
+I have been learning how to use Ruby and JavaScript to write web applications for the past eight weeks at Makers Academy. 
 
-My goal for the next three months is to be able to write a tested and reusable, clean code using JavaScript and TypeScript.
+My goal for the next three months is to be able to write a tested and reusable, clean code to collaborate on significant projects.
 ****
 
 <div>
@@ -49,12 +49,13 @@ Portuguese (Native) | English (Fluent) | Spanish (Basic)
 #### Makers Academy (June 2022 to September 2022)
 Highly selective 12 week intensive coding bootcamp
 
-*Pre Course - first 4 weeks:*
 - Command Line
-- Version Control
-- Use of Ruby to solving problems
-- Test Driven Development (RSpec)
-- Pair Programming
+- Use of Ruby and JavaScript to solving problems
+- Sinatra, NodeJS
+- Databases: SQL, Postgres, MongoDB
+- Test Driven Development (TDD) - RSpec and Jest
+- Pair Programming and Group Projects
+- Agile/XP, OOP, MVC
 
 #### Federal University of the State of Rio de Janeiro (November 2012 to August 2018)
 BS Nutrition Sciences, specialising in Food Science
@@ -75,7 +76,7 @@ BS Nutrition Sciences, specialising in Food Science
 ### <a name="my_free_time">My Free Time</a>
 
 - Dog Sitting 🐶
-- Gardening 🌱
+- Mentalism and Magic 🪄
 - Cooking 🥣
 
 [1]: https://github.com/taybenca/student-directory
