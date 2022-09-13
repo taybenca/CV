@@ -1,13 +1,17 @@
-# Tayanne Bencardino
+<h1><div align="center"> Tayanne Bencardino </div></h1>
 
-A Software Engineer student passionate about front-end web development. 
+<div align="center">
+  
+  A Software Engineer student passionate about front-end web development. 
 
-I have been learning how to use Ruby and JavaScript to write web applications for the past eight weeks at Makers Academy. 
+  I have been learning how to use Ruby and JavaScript to write web applications for the past eight weeks at Makers Academy. 
+ 
+  My goal for the next three months is to be able to write a tested and reusable, clean code to collaborate on significant projects.
+</div>
 
-My goal for the next three months is to be able to write a tested and reusable, clean code to collaborate on significant projects.
 ****
 
-<div>
+<div align="center">
   <a href="https://medium.com/@tayannebencardino" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/tayannebencardino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/taybenca" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
@@ -16,35 +20,47 @@ My goal for the next three months is to be able to write a tested and reusable, 
 </div>
 
 ***
+<div align="center">
+  
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [My Free Time](#my_free_time) | [My Values](#my_values)
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [My Free Time](#my_free_time)
+  </div>
 
-
-### <a name="projects">Projects</a>
-Name | Description | Lang | Test | Tech
+## <div align="center"><a name="projects">Projects</a> </div>
+  <div align="center">
+    
+Name | Description | Language | Test | Tech
 --- | --- | --- | --- | ---
-[Student Directory][1] | The student directory script allows you to manage the list of students enrolled at Villains Academy| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
-[FizzBuzz][2] | My first Test Driven Development (RSpec) and Pair Programming over FizzBuzz| <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
-[TakeAway][3] | Allows you to place your order and receive SMS with a delivery time | <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" /> | <img align="center" alt="Tay-Twilio" height="25" width="80" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
-[MakersBnB][4] | a Clone of Airbnb - Group project |  <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> | RSpec<img align="center" alt="Tay-Rspec" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" /> | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-
+[Ramble][1] | Ramble helps users to post a route, and the map is rendered using API | <img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | Jest |  <div align="center"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></div> |
+[TakeAway][3] | Allows you to place your order and receive SMS with a delivery time |<div align="center"> <img alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div>| RSpec | <div align="center"><img alt="Tay-Twilio" height="25" width="80" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></div>
+[MakersBnB][4] | a Clone of Airbnb - Group project | <div align="center"> <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div> | RSpec | <div align="center"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><br> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></div>
+    
+  </div>
+  
 ***
 
-### <a name="skills">Skills</a>
-#### Attention to Detail
-
-I developed this skill during my time at my previous job. I follow all instructions to complete my work with efficiency.
-
-I also consider times when I'm fixing a mistake due to my attention.
-
-#### Teamwork
-Working together because the team has the same goal is the best way to get the result most effectively and efficiently.
-
-#### Languages
+## <div align="center"><a name="skills">Skills</a></div>
+  
+<div align="center">  
+  
+Technical | Soft Skills 
+--- | --- 
+Javascript (JEST) | Teamwork
+React | Pair programming
+HTML 5 / CSS 3 | Communication
+SQL / MongoDB | Attention to Detail
+Ruby (RSpec) | 
+TDD | 
+  
+  </div><br>
+  
+* Languages:
+  
 Portuguese (Native) | English (Fluent) | Spanish (Basic)
+  
 ***
 
-### <a name="education">Education</a>
+## <a name="education">Education</a>
 
 #### Makers Academy (June 2022 to September 2022)
 Highly selective 12 week intensive coding bootcamp
@@ -62,7 +78,7 @@ BS Nutrition Sciences, specialising in Food Science
 
 ***
 
-### <a name="experience">Experience</a>
+## <a name="experience">Experience</a>
 
 #### ITH Pharma (February 2020 to May 2022)
 *Operator*
@@ -73,13 +89,21 @@ BS Nutrition Sciences, specialising in Food Science
 
 ***
 
-### <a name="my_free_time">My Free Time</a>
+## <a name="my_free_time">My Free Time</a>
 
 - Dog Sitting 🐶
 - Mentalism and Magic 🪄
 - Cooking 🥣
+  
+***
 
-[1]: https://github.com/taybenca/student-directory
-[2]: https://github.com/taybenca/fizzbuzz
+## <a name="my_values">My Values</a>
+  - Team spirit
+  - Honesty
+  - Positivity
+  - Freedom
+  - Personal Growth
+
+[1]: https://github.com/taybenca/Ramble-App
 [3]: https://github.com/taybenca/takeaway
 [4]: https://github.com/meddydev/Airbnb-Clone
