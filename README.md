@@ -49,7 +49,7 @@ Javascript (JEST) | Teamwork
 React | Pair programming
 HTML 5 / CSS 3 | Communication
 SQL / MongoDB | Attention to Detail
-Ruby (RSpec) | 
+Ruby (RSpec) | Agile
 TDD | 
   
   </div><br>
