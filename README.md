@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  A Software Engineer student passionate about front-end web development. 
+  A Software Engineer passionate about front-end web development. 
 
   I have been learning how to use Ruby and JavaScript to write web applications for the past eight weeks at Makers Academy. 
  
@@ -31,7 +31,7 @@
     
 Name | Description | Language | Test | Tech
 --- | --- | --- | --- | ---
-[Ramble][1] | Ramble helps users to post a route, and the map is rendered using API | <img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | Jest |  <div align="center"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></div> |
+[Ramble][1] | Ramble helps users to post a route, and the map is rendered using API | <img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | Jest |  <div align="center"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></div> |
 [TakeAway][3] | Allows you to place your order and receive SMS with a delivery time |<div align="center"> <img alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div>| RSpec | <div align="center"><img alt="Tay-Twilio" height="25" width="80" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></div>
 [MakersBnB][4] | a Clone of Airbnb - Group project | <div align="center"> <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div> | RSpec | <div align="center"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><br> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></div>
     
