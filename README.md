@@ -29,11 +29,11 @@
 ## <div align="center"><a name="projects">Projects</a> </div>
   <div align="center">
     
-Name | Description | Language | Test | Tech
+Name | Description | Links | Technologies | Languages
 --- | --- | --- | --- | ---
-[Ramble][1] | Ramble helps users to post a route, and the map is rendered using API | <img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | Jest |  <div align="center"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></div> |
-[TakeAway][3] | Allows you to place your order and receive SMS with a delivery time |<div align="center"> <img alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div>| RSpec | <div align="center"><img alt="Tay-Twilio" height="25" width="80" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></div>
-[MakersBnB][4] | a Clone of Airbnb - Group project | <div align="center"> <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div> | RSpec | <div align="center"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><br> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></div>
+<b>Ramble</b> | Ramble helps users to post a route, and the map is rendered using API | <div align="center"> <a href="https://github.com/taybenca/Ramble-App"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | Jest, React, HTML, CSS, MongoDB | <div align="center"><img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
+<b>Weather App</b> | Check the weather using OpenWeatherMap API | <div align="center"><a href="https://weather-taybenca.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> <a href="https://github.com/taybenca/weather-frontend"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | React, Netlify, HTML, CSS | <div align="center"><img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div> 
+<b>MakersBnB</b> | a Clone of Airbnb - Group project | <div align="center"><a href="https://officialmakersbnb.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> <a href="https://github.com/taybenca/Airbnb-Clone"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | RSpec, Heroku, HTML, CSS, PostgreSQL | <div align="center"> <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div> 
     
   </div>
   
@@ -105,5 +105,5 @@ BS Nutrition Sciences, specialising in Food Science
   - Personal Growth
 
 [1]: https://github.com/taybenca/Ramble-App
-[3]: https://github.com/taybenca/takeaway
-[4]: https://github.com/meddydev/Airbnb-Clone
+[2]: https://github.com/taybenca/weather-frontend
+[3]: https://github.com/taybenca/Airbnb-Clone
