@@ -4,7 +4,7 @@
   
   A Software Engineer passionate about front-end web development. 
 
-  I have been learning how to use Ruby and JavaScript to write web applications for the past eight weeks at Makers Academy. 
+  I have been learning how to use Ruby and JavaScript to write web applications for the past twelve weeks at Makers Academy. 
  
   My goal for the next three months is to be able to write a tested and reusable, clean code to collaborate on significant projects.
 </div>
@@ -33,6 +33,8 @@ Name | Description | Links | Technologies | Languages
 --- | --- | --- | --- | ---
 <b>Ramble</b> | Ramble helps users to post a route, and the map is rendered using API | <div align="center"> <a href="https://github.com/taybenca/Ramble-App"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | Jest, React, HTML, CSS, MongoDB | <div align="center"><img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
 <b>Weather App</b> | Check the weather using OpenWeatherMap API | <div align="center"><a href="https://weather-taybenca.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> <a href="https://github.com/taybenca/weather-frontend"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | React, Netlify, HTML, CSS | <div align="center"><img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
+<b>Nosso Bank</b> | Tech test to output a bank statement | <div align="center"> <a href="https://github.com/taybenca/bank-tech-test"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </div> </a> | Jest, Node.js | <div align="center"> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
+<b>The Coffee Connection</b> | Tech test to make a new till to replace vintage machines | <div align="center"> <a href="https://github.com/taybenca/till-tech-test"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </div> </a> | Jest, Node.js | <div align="center"> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
 <b>Milton Acebook</b> | a Clone of Facebook - Group project | <div align="center"> <a href="https://milton-acebook.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> <a href="https://github.com/karolina-codes/acebook-node-milton"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | Jest, HTML, CSS, MongoDB, NodeJS | <div align="center"><img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
 <b>MakersBnB</b> | a Clone of Airbnb - Group project | <div align="center"><a href="https://officialmakersbnb.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> <a href="https://github.com/taybenca/Airbnb-Clone"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | RSpec, Heroku, HTML, CSS, PostgreSQL | <div align="center"> <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div> 
     
@@ -104,7 +106,3 @@ BS Nutrition Sciences, specialising in Food Science
   - Positivity
   - Freedom
   - Personal Growth
-
-[1]: https://github.com/taybenca/Ramble-App
-[2]: https://github.com/taybenca/weather-frontend
-[3]: https://github.com/taybenca/Airbnb-Clone
