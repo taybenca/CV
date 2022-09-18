@@ -2,11 +2,15 @@
 
 <div align="center">
   
-  A Software Engineer passionate about front-end web development. 
-
-  I have been learning how to use Ruby and JavaScript to write web applications for the past twelve weeks at Makers Academy. 
- 
-  My goal for the next three months is to be able to write a tested and reusable, clean code to collaborate on significant projects.
+A Software Engineer interested in front-end development.
+  
+Before that, I graduated in Nutrition Sciences and volunteered in a hospital specialising in treating AIDS. I came to London to learn English and worked making medicines during the pandemic.
+  
+At the same time, I spent my nights and weekends focused on starting e-commerce to sell cakes. I took some online marketing and branding courses. As a hobby, I was studying programming logic. When I realised I was already changing careers.
+  
+I have been learning to use Ruby and JavaScript to write web applications at Makers Academy. In my last project at Makers, I had the opportunity to deepen my knowledge in React, a technology that I find fascinating for making our code more organised and flexible.
+  
+My goal for the next six months is to be able to write a tested and reusable, clean code to collaborate on significant projects. 
 </div>
 
 ****
@@ -42,20 +46,41 @@ Name | Description | Links | Technologies | Languages
   
 ***
 
-## <div align="center"><a name="skills">Skills</a></div>
+## <a name="skills">Skills</a>
   
-<div align="center">  
+#### *Teamwork and Communication*
   
-Technical | Soft Skills 
---- | --- 
-Javascript (JEST) | Teamwork
-React | Pair programming
-HTML 5 / CSS 3 | Communication
-SQL / MongoDB | Attention to Detail
-Ruby (RSpec) | Agile
-TDD | 
+Working as a team is something I think is essential because we can always learn and teach. 
+It's a valuable exchange for everyone involved. When I was an operator at ITH, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out. 
+
+At makers, it was not much different. Working as a team was something accomplished in some projects. Understanding each other's needs and difficulties was crucial to delivering the project we would like to present.
   
-  </div><br>
+  
+*My blog post about it:<a href="https://medium.com/@tayannebencardino/teamwork-my-experience-at-makers-caf996feb0f5"> <b>TeamWork: my experience at Makers</b> </a>*
+  
+  
+
+#### *Pair programming* 
+  
+Pair programming was a skill I learned at makers that helps participants understand each other and their learning needs. 
+  
+Thinking together about the same problem makes the solution come faster, as well as understanding the problem. I understand pair programming as a way to help others
+
+*My blog post about it:<a href="https://medium.com/@tayannebencardino/pair-programming-why-should-we-pair-every-day-87ed7bd1754e"> <b>Pair programming: Why should we pair every day?</b> </a>*
+  
+***
+  
+  
+#### *TDD: Test-driven development*
+#### *React - HTML - CSS*
+#### *SQL and MongoDB*
+#### **
+#### **
+
+Attention to Detail
+Ruby (RSpec) 
+
+ Javascript (JEST)
   
 * Languages:
   
