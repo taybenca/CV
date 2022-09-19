@@ -51,7 +51,7 @@ Name | Description | Links | Technologies | Languages
 #### *Teamwork and Communication*
   
 Working as a team is something I think is essential because we can always learn and teach. 
-It's a valuable exchange for everyone involved. When I was an operator at ITH, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out. 
+It's a valuable exchange for everyone involved. When I was an operator at <a href="https://ithpharma.com/"> ITH </a>, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out. 
 
 At makers, it was not much different. Working as a team was something accomplished in some projects. Understanding each other's needs and difficulties was crucial to delivering the project we would like to present.
   
@@ -81,7 +81,7 @@ These are front-end skills that I take great pleasure in studying. I am currentl
 
 #### *SQL - MongoDB - Excel*
 
-SQL and MongoDB were two database technologies I learned during Makers. Storing user data from the projects created during the course was essential. When I worked at Sesc, I used Excel to evaluate nutritional data from more than 10,000 children in all Brazilian states to monitor the development of childhood obesity.
+SQL and MongoDB were two database technologies I learned during Makers. Storing user data from the projects created during the course was essential. When I worked at <a href="https://en.wikipedia.org/wiki/Servi%C3%A7o_Social_do_Com%C3%A9rcio"> Sesc </a>, I used Excel to evaluate nutritional data from more than 10,000 children in all Brazilian states to monitor the development of childhood obesity.
 
 
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/creating-tables-into-a-database-postg-14a4ea5e6dca"> <b>Creating tables into a database (PostgreSQL)</b> </a>*
@@ -103,13 +103,13 @@ Since I decided to study programming, JS has been the language I've always wante
   
 #### *Languages*
   
-Portuguese (Native) | English (Fluent) | Spanish (Basic)
+Portuguese (Native) - English (Fluent) - Spanish (Basic)
   
 ***
 
 ## <a name="education">Education</a>
 
-#### Makers Academy (June 2022 to September 2022)
+#### <a href="https://makers.tech/"> Makers Academy </a> (June 2022 to September 2022)
 Highly selective 12 week intensive coding bootcamp
 
 - Command Line
@@ -120,20 +120,30 @@ Highly selective 12 week intensive coding bootcamp
 - Pair Programming and Group Projects
 - Agile/XP, OOP, MVC
 
-#### Federal University of the State of Rio de Janeiro (November 2012 to August 2018)
+#### <a href="https://en.wikipedia.org/wiki/Federal_University_of_the_State_of_Rio_de_Janeiro"> Federal University of the State of Rio de Janeiro </a> (November 2012 to August 2018)
 BS Nutrition Sciences, specialising in Food Science
 
 ***
 
 ## <a name="experience">Experience</a>
 
-#### ITH Pharma (February 2020 to May 2022)
+#### <a href="https://ithpharma.com/"> ITH Pharma </a> (February 2020 to May 2022)
 *Operator*
 
 - Responsible for assembling intravenous medicines and parenteral nutrition.
 - Responsible for checking (correct drug, volume, diluent) from my colleagues.
 
+#### <a href="https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-sudeste/hugg-unirio"> Gaffrée and Guinle University Hospital </a> (February 2018 to July 2018)
+*Volunteer Nutritionist*
 
+- Responsible for planning diets for patients. Some of the patients I worked with had AIDS, cancer and kidney diseases.
+- I learned to be resilient. Many patients needed someone to talk to about what they were going through. And I always passed positivity to that patient, so they never lost hope and would come out healed from there.
+
+#### <a href="https://en.wikipedia.org/wiki/Servi%C3%A7o_Social_do_Com%C3%A9rcio"> Social Service of Commerce </a> (March 2017 to August 2018)
+*Junior Nutritionist*
+
+- Responsible for evaluate children and adolescents over the years to reduce childhood obesity and prevent malnutrition.
+- Responsible for submit monthly reports and quarterly results.
 ***
 
 ## <a name="my_free_time">My Free Time</a>
