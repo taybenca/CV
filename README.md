@@ -79,7 +79,7 @@ These are front-end skills that I take great pleasure in studying. I am currentl
 
 #### *SQL - MongoDB - Excel*
 
-SQL and MongoDB were two database technologies I learned during Makers. Storing user data from the projects created during the course was essential. When I worked at <a href="https://en.wikipedia.org/wiki/Servi%C3%A7o_Social_do_Com%C3%A9rcio"> Sesc </a>, I used Excel to evaluate nutritional data from more than 10,000 children in all Brazilian states to monitor the development of childhood obesity.
+SQL and MongoDB were two database technologies I learnt during Makers. Storing user data from the projects created during the course was essential. When I worked at <a href="https://en.wikipedia.org/wiki/Servi%C3%A7o_Social_do_Com%C3%A9rcio"> Sesc </a>, I used Excel to evaluate nutritional data from more than 10,000 children in all Brazilian states to monitor the development of childhood obesity.
 
 
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/creating-tables-into-a-database-postg-14a4ea5e6dca"> <b>Creating tables into a database (PostgreSQL)</b> </a>*
@@ -109,8 +109,9 @@ Portuguese (Native) - English (Fluent) - Spanish (Basic)
 
 #### <a href="https://makers.tech/"> Makers Academy </a> (June 2022 to September 2022)
 Coding bootcamp
-- Object-oriented programming
-- Use of Ruby and JavaScript to build projects
+- Use of Ruby and JavaScript with object-oriented programming to build projects.
+- I learnt how to understand the project requirements, create user stories, define MVP's features, and break the features into smaller tasks to accomplish them easily.
+- I improved my communication skills with code reviews and by giving and receiving feedback directly to the person after each pair session with open and respectful communication.
 
 #### <a href= "https://www.alura.com.br/"> Alura.com.br</a> (Courses during 2021 and 2022)
 - <a href="https://cursos.alura.com.br/course/react-integrando-projeto-react-apis"> React: Integrating your React project with APIs </a>
