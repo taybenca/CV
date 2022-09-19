@@ -50,16 +50,16 @@ Name | Description | Links | Technologies | Languages
  #### *Teamwork and Communication*
   
 Working as a team is something I think is essential because we can always learn and teach. 
-It's a valuable exchange for everyone involved. When I was an operator at <a href="https://ithpharma.com/"> ITH </a>, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out.
+It's a valuable exchange for everyone involved. When I was an operator at ITH Pharma, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out.
 
-At makers, it was not much different. Working as a team was something accomplished in some projects. Understanding each other's needs and difficulties was crucial to delivering the project we would like to present.
+At Makers, it was not much different. Working as a team was something accomplished in some projects. Understanding each other's needs and difficulties was crucial to delivering the project we would like to present.
   
   
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/teamwork-my-experience-at-makers-caf996feb0f5"> <b>TeamWork: my experience at Makers</b> </a>*
 
 #### *Pair programming* 
   
-Pair programming was a skill I learned at makers that helps participants understand each other and their learning needs. 
+Pair programming was a skill I learnt at makers that helps participants understand each other and their learning needs. 
   
 Thinking together about the same problem makes the solution come faster, as well as understanding the problem. I understand pair programming as a way to help others.
 
@@ -68,7 +68,7 @@ Thinking together about the same problem makes the solution come faster, as well
   
 #### *TDD: Test-driven development*
 
-At Makers, I learned how vital testing an application is. Changing the code when a test is ready is a much simpler task. Developers must test quality code before writing it, which is how I plan to work.
+At Makers, I learnt how vital testing an application is. Changing the code when a test is ready is a much simpler task. Developers must test quality code before writing it, which is how I plan to work.
 
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/lets-code-but-first-tdd-7cec0c1e9e0e"> <b>Let’s code, but first… TDD</b> </a>*
 
@@ -94,7 +94,7 @@ I used the command line during the Makers pre-course. It was a challenge because
 #### *JavaScript - JEST*
 
 
-Since I decided to study programming, JS has been the language I've always wanted to comprehend. In the beginning, it was pretty challenging. It still is. Whenever I discover something new, I realize that there are ten other things to know about that topic, we are constantly learning and using our brain like we never used it before, and that's what fascinates me about learning within programming.
+Since I decided to study programming, JS has been the language I've always wanted to comprehend. In the beginning, it was pretty challenging. It still is. Whenever I discover something new, I realise that there are ten other things to know about that topic, we are constantly learning and using our brain like we never used it before, and that's what fascinates me about learning within programming.
 
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/callback-function-84cdc16b5754"> <b>Callback Function</b> </a>*
 
