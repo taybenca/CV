@@ -58,31 +58,50 @@ At makers, it was not much different. Working as a team was something accomplish
   
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/teamwork-my-experience-at-makers-caf996feb0f5"> <b>TeamWork: my experience at Makers</b> </a>*
   
-  
 
 #### *Pair programming* 
   
 Pair programming was a skill I learned at makers that helps participants understand each other and their learning needs. 
   
-Thinking together about the same problem makes the solution come faster, as well as understanding the problem. I understand pair programming as a way to help others
+Thinking together about the same problem makes the solution come faster, as well as understanding the problem. I understand pair programming as a way to help others.
 
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/pair-programming-why-should-we-pair-every-day-87ed7bd1754e"> <b>Pair programming: Why should we pair every day?</b> </a>*
   
-***
-  
   
 #### *TDD: Test-driven development*
+
+At Makers, I learned how vital testing an application is. Changing the code when a test is ready is a much simpler task. Developers must test quality code before writing it, which is how I plan to work.
+
+*My blog post about it:<a href="https://medium.com/@tayannebencardino/lets-code-but-first-tdd-7cec0c1e9e0e"> <b>Let’s code, but first… TDD</b> </a>*
+
+
 #### *React - HTML - CSS*
-#### *SQL and MongoDB*
-#### **
-#### **
 
-Attention to Detail
-Ruby (RSpec) 
+These are front-end skills that I take great pleasure in studying. I am currently taking a course on these three technologies at <a href= "https://www.alura.com.br/"> Alura</a> to be able to apply them to projects that I already have and, in the future, in new projects.
 
- Javascript (JEST)
+#### *SQL - MongoDB - Excel*
+
+SQL and MongoDB were two database technologies I learned during Makers. Storing user data from the projects created during the course was essential. When I worked at Sesc, I used Excel to evaluate nutritional data from more than 10,000 children in all Brazilian states to monitor the development of childhood obesity.
+
+
+*My blog post about it:<a href="https://medium.com/@tayannebencardino/creating-tables-into-a-database-postg-14a4ea5e6dca"> <b>Creating tables into a database (PostgreSQL)</b> </a>*
+
+#### *Command line - VSCode*
+
+I used the command line during the Makers pre-course. It was a challenge because I started using Windows Powershell, which didn't work with some functions of creating folders through the terminal, for example. So I switched to AWS, which I didn't adapt much. Soon after, I downloaded the WSL (Windows Subsystem for Linux), the terminal I used until today on my VS code.
+
+*My blog post about it:<a href="https://medium.com/@tayannebencardino/the-magic-black-screen-command-line-c5a43ed412d4"> <b>The magic black screen: Command line</b> </a>*
+
+
+#### *JavaScript - JEST*
+
+
+Since I decided to study programming, JS has been the language I've always wanted to comprehend. In the beginning, it was pretty challenging. It still is. Whenever I discover something new, I realize that there are ten other things to know about that topic, we are constantly learning and using our brain like we never used it before, and that's what fascinates me about learning within programming.
+
+*My blog post about it:<a href="https://medium.com/@tayannebencardino/callback-function-84cdc16b5754"> <b>Callback Function</b> </a>*
+
   
-* Languages:
+#### *Languages*
   
 Portuguese (Native) | English (Fluent) | Spanish (Basic)
   
