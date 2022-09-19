@@ -46,18 +46,16 @@ Name | Description | Links | Technologies | Languages
   
 ***
 
-## <a name="skills">Skills</a>
-  
-#### *Teamwork and Communication*
+## <a name="skills">Skills</a> ✨
+ #### *Teamwork and Communication*
   
 Working as a team is something I think is essential because we can always learn and teach. 
-It's a valuable exchange for everyone involved. When I was an operator at <a href="https://ithpharma.com/"> ITH </a>, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out. 
+It's a valuable exchange for everyone involved. When I was an operator at <a href="https://ithpharma.com/"> ITH </a>, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out.
 
 At makers, it was not much different. Working as a team was something accomplished in some projects. Understanding each other's needs and difficulties was crucial to delivering the project we would like to present.
   
   
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/teamwork-my-experience-at-makers-caf996feb0f5"> <b>TeamWork: my experience at Makers</b> </a>*
-  
 
 #### *Pair programming* 
   
@@ -104,28 +102,20 @@ Since I decided to study programming, JS has been the language I've always wante
 #### *Languages*
   
 Portuguese (Native) - English (Fluent) - Spanish (Basic)
-  
+
 ***
 
-## <a name="education">Education</a>
+## <a name="education">Education</a> ✍
 
 #### <a href="https://makers.tech/"> Makers Academy </a> (June 2022 to September 2022)
 Highly selective 12 week intensive coding bootcamp
-
-- Command Line
-- Use of Ruby and JavaScript to solving problems
-- Sinatra, NodeJS
-- Databases: SQL, Postgres, MongoDB
-- Test Driven Development (TDD) - RSpec and Jest
-- Pair Programming and Group Projects
-- Agile/XP, OOP, MVC
 
 #### <a href="https://en.wikipedia.org/wiki/Federal_University_of_the_State_of_Rio_de_Janeiro"> Federal University of the State of Rio de Janeiro </a> (November 2012 to August 2018)
 BS Nutrition Sciences, specialising in Food Science
 
 ***
 
-## <a name="experience">Experience</a>
+## <a name="experience">Experience</a> 🚀
 
 #### <a href="https://ithpharma.com/"> ITH Pharma </a> (February 2020 to May 2022)
 *Operator*
@@ -137,7 +127,7 @@ BS Nutrition Sciences, specialising in Food Science
 *Volunteer Nutritionist*
 
 - Responsible for planning diets for patients. Some of the patients I worked with had AIDS, cancer and kidney diseases.
-- I learned to be resilient. Many patients needed someone to talk to about what they were going through. And I always passed positivity to that patient, so they never lost hope and would come out healed from there.
+- I learnt to be resilient. Many patients needed someone to talk to about what they were going through. And I always passed positivity to that patient, so they never lost hope and would be healed from there.
 
 #### <a href="https://en.wikipedia.org/wiki/Servi%C3%A7o_Social_do_Com%C3%A9rcio"> Social Service of Commerce </a> (March 2017 to August 2018)
 *Junior Nutritionist*
@@ -148,9 +138,10 @@ BS Nutrition Sciences, specialising in Food Science
 
 ## <a name="my_free_time">My Free Time</a>
 
-- Dog Sitting 🐶
-- Mentalism and Magic 🪄
-- Cooking 🥣
+- <b>Dog Sitting</b>: I do love dogs, they are all cute! Last summer I took care of five dogs, an average of 6 days each. They make me more peaceful and happier!
+- <b>Blogging</b>: I have been writing in journals since I was 12 years old, when I started writing about everything necessary that happened in my day. Today I have a physical journal in that I mainly write (with colourful pens) about my travels and paste some pictures and stickers. I use <a href="https://medium.com/@tayannebencardino"> Medium </a> to write about my life at Makers, especially about something I found most challenging.
+- <b>Meditation</b>: I do meditation every day for ten minutes after having my breakfast. It's part of my morning habit. Meditation helped me to be more focused on daily tasks.
+- <b>Cooking</b>: I love trying new things, especially foods from different cultures. <a href="https://www.jamieoliver.com/"> Jamie Oliver </a> is an inspiration to me in the kitchen, and I make at least once a month one of his recipes from the book <a href="https://www.amazon.co.uk/5-Ingredients-Quick-Easy-Food/dp/0718187725/ref=asc_df_0718187725/?tag=googshopuk-21&linkCode=df0&hvadid=310842649900&hvpos=&hvnetw=g&hvrand=5584775920870516665&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046008&hvtargid=pla-321978254288&psc=1&th=1&psc=1"> 5 Ingredients - Quick & Easy Food </a>. I also feel very inspired by MasterChef. 🥣
   
 ***
 
