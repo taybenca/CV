@@ -26,7 +26,7 @@ My goal for the next six months is to be able to write a tested and reusable, cl
 ***
 <div align="center">
   
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [My Free Time](#my_free_time) | [My Values](#my_values)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#my_free_time) | [My Values](#my_values)
 
   </div>
 
