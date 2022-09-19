@@ -108,7 +108,19 @@ Portuguese (Native) - English (Fluent) - Spanish (Basic)
 ## <a name="education">Education</a> ✍
 
 #### <a href="https://makers.tech/"> Makers Academy </a> (June 2022 to September 2022)
-Highly selective 12 week intensive coding bootcamp
+Coding bootcamp
+- Object-oriented programming
+- Use of Ruby and JavaScript to build projects
+
+#### <a href= "https://www.alura.com.br/"> Alura.com.br</a> (Courses during 2021 and 2022)
+- <a href="https://cursos.alura.com.br/course/react-integrando-projeto-react-apis"> React: Integrating your React project with APIs </a>
+- <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript"> React: developing with JavaScript</a>
+- <a href="https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao"> HTML5 and CSS3 part 2: Positioning, Lists and Nav bar </a>
+- <a href="https://cursos.alura.com.br/course/pong-javascript"> Programming Logic: Get Started in Logic with Pong Game and Javascript </a>
+- <a href="https://cursos.alura.com.br/course/branding"> Branding: creating a strong brand </a>
+
+#### <a href="https://www.udacity.com/course/digital-marketing-nanodegree--nd018"> Udacity </a> (February 2021 to June 2021)
+Nanodegree Program, Digital Marketing
 
 #### <a href="https://en.wikipedia.org/wiki/Federal_University_of_the_State_of_Rio_de_Janeiro"> Federal University of the State of Rio de Janeiro </a> (November 2012 to August 2018)
 BS Nutrition Sciences, specialising in Food Science
@@ -136,7 +148,7 @@ BS Nutrition Sciences, specialising in Food Science
 - Responsible for submit monthly reports and quarterly results.
 ***
 
-## <a name="my_free_time">My Free Time</a>
+## <a name="my_free_time">My Free Time</a> ☮️
 
 - <b>Dog Sitting</b>: I do love dogs, they are all cute! Last summer I took care of five dogs, an average of 6 days each. They make me more peaceful and happier!
 - <b>Blogging</b>: I have been writing in journals since I was 12 years old, when I started writing about everything necessary that happened in my day. Today I have a physical journal in that I mainly write (with colourful pens) about my travels and paste some pictures and stickers. I use <a href="https://medium.com/@tayannebencardino"> Medium </a> to write about my life at Makers, especially about something I found most challenging.
@@ -145,9 +157,5 @@ BS Nutrition Sciences, specialising in Food Science
   
 ***
 
-## <a name="my_values">My Values</a>
-  - Team spirit
-  - Honesty
-  - Positivity
-  - Freedom
-  - Personal Growth
+## <a name="my_values">My Values</a> 
+⭐ *Team spirit, Honesty, Positivity, Freedom, Personal Growth* ⭐
