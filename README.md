@@ -1,17 +1,19 @@
-<h1><div align="center"> Tayanne Bencardino </div></h1>
+<h1><div align="center"> Hey, I'm Tay Bencardino </div></h1>
 
-<div align="center">
-  
+
+<div align="center"> ⭐ <i>Team spirit, Honesty, Positivity, Freedom, Personal Growth</i> ⭐ </div>
+
+###
+ 
 A Software Engineer interested in front-end development.
-  
-Before that, I graduated in Nutrition Sciences and volunteered in a hospital specialising in treating AIDS. I came to London to learn English and worked making medicines during the pandemic.
-  
-At the same time, I spent my nights and weekends focused on starting e-commerce to sell cakes. I took some online marketing and branding courses. As a hobby, I was studying programming logic. When I realised I was already changing careers.
-  
-I have been learning to use Ruby and JavaScript to write web applications at Makers Academy. In my last project at Makers, I had the opportunity to deepen my knowledge in React, a technology that I find fascinating for making our code more organised and flexible.
-  
-My goal for the next six months is to be able to write a tested and reusable, clean code to collaborate on significant projects. 
-</div>
+
+Before Makers, I graduated in Nutrition Sciences and volunteered in a hospital specialising in treating AIDS. I came to London to learn English and worked making medicines during the pandemic.
+
+At the same time, I spent my nights and weekends focused on starting e-commerce to sell cakes. I took some online marketing and branding courses. As a hobby, I was studying programming logic. When I realised I was already changing careers. 
+
+I have been learning to use Ruby and JavaScript to write web applications at Makers Academy. <a href="https://www.youtube.com/watch?v=Xpqo9LYWCCc"> In my last project</a> at Makers, I had the opportunity to deepen my knowledge in React, a technology that I find fascinating for making our code more organised and flexible.
+I like being a software engineer because I can practice my creativity and problem-solving ability.
+Working as a team is essential to me as it is a constant way of teaching and learning.
 
 ****
 
@@ -26,82 +28,70 @@ My goal for the next six months is to be able to write a tested and reusable, cl
 ***
 <div align="center">
   
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#my_free_time) | [My Values](#my_values)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#my_free_time)
 
   </div>
 
 ## <div align="center"><a name="projects">Projects</a> </div>
   <div align="center">
     
-Name | Description | Links | Technologies | Languages
---- | --- | --- | --- | ---
-<b>Ramble</b> | Ramble helps users to post a route, and the map is rendered using API | <div align="center"> <a href="https://github.com/taybenca/Ramble-App"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | Jest, React, HTML, CSS, MongoDB | <div align="center"><img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
-<b>Weather App</b> | Check the weather using OpenWeatherMap API | <div align="center"><a href="https://weather-taybenca.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> <a href="https://github.com/taybenca/weather-frontend"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | React, Netlify, HTML, CSS | <div align="center"><img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
-<b>Nosso Bank</b> | Tech test to output a bank statement | <div align="center"> <a href="https://github.com/taybenca/bank-tech-test"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </div> </a> | Jest, Node.js | <div align="center"> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
-<b>The Coffee Connection</b> | Tech test to make a new till to replace vintage machines | <div align="center"> <a href="https://github.com/taybenca/till-tech-test"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </div> </a> | Jest, Node.js | <div align="center"> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
-<b>Milton Acebook</b> | a Clone of Facebook - Group project | <div align="center"> <a href="https://milton-acebook.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> <a href="https://github.com/karolina-codes/acebook-node-milton"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | Jest, HTML, CSS, MongoDB, NodeJS | <div align="center"><img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
-<b>MakersBnB</b> | a Clone of Airbnb - Group project | <div align="center"><a href="https://officialmakersbnb.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> <a href="https://github.com/taybenca/Airbnb-Clone"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | RSpec, Heroku, HTML, CSS, PostgreSQL | <div align="center"> <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div> 
+Name | Description | External Link | README | Technologies | Languages
+--- | --- | --- | --- | --- | ---
+<b>Ramble</b> | Ramble helps users to post a route, and the map is rendered using API | <a href="https://www.youtube.com/watch?v=Xpqo9LYWCCc"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> | <div align="center"> <a href="https://github.com/taybenca/Ramble-App"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div>| Jest, React, HTML, CSS, MongoDB | <div align="center"><img alt="Tay-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
+<b>Weather App</b> | Check the weather using OpenWeatherMap API | <div align="center"><a href="https://weather-taybenca.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> | <a href="https://github.com/taybenca/weather-frontend"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | React, Netlify, HTML, CSS | <div align="center"><img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
+<b>Nosso Bank</b> | Tech test to output a bank statement | Coming soon... | <div align="center"> <a href="https://github.com/taybenca/bank-tech-test"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </div> </a> | Jest, Node.js | <div align="center"> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
+<b>The Coffee Connection</b> | Tech test to make a new till to replace vintage machines | Coming soon... | <div align="center"> <a href="https://github.com/taybenca/till-tech-test"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </div> </a> | Jest, Node.js | <div align="center"> <img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div> 
+<b>Milton Acebook</b> | a Clone of Facebook - Group project | <div align="center"> <a href="https://milton-acebook.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> | <a href="https://github.com/karolina-codes/acebook-node-milton"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | Jest, HTML, CSS, MongoDB, NodeJS | <div align="center"><img alt="Tay-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
+<b>MakersBnB</b> | a Clone of Airbnb - Group project | <div align="center"><a href="https://officialmakersbnb.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> | <a href="https://github.com/taybenca/Airbnb-Clone"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div> | RSpec, Heroku, HTML, CSS, PostgreSQL | <div align="center"> <img align="center" alt="Tay-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/> </div> 
     
   </div>
   
 ***
 
 ## <a name="skills">Skills</a> ✨
- #### *Teamwork and Communication*
+ #### *Teamwork, Pair programming and Communication*
   
 Working as a team is something I think is essential because we can always learn and teach. 
 It's a valuable exchange for everyone involved. When I was an operator at ITH Pharma, the hospitals often asked for batches for inventories. We needed to work as a team for better efficiency, where we were responsible for checking each other out.
 
-At Makers, it was not much different. Working as a team was something accomplished in some projects. Understanding each other's needs and difficulties was crucial to delivering the project we would like to present.
-  
-  
-*My blog post about it:<a href="https://medium.com/@tayannebencardino/teamwork-my-experience-at-makers-caf996feb0f5"> <b>TeamWork: my experience at Makers</b> </a>*
+This was highly beneficial for Makers when working in teams to accomplish projects. Understanding each other's needs and difficulties was crucial to delivering the project we would like to present.
 
-#### *Pair programming* 
-  
 Pair programming was a skill I learnt at makers that helps participants understand each other and their learning needs. 
   
 Thinking together about the same problem makes the solution come faster, as well as understanding the problem. I understand pair programming as a way to help others.
 
-*My blog post about it:<a href="https://medium.com/@tayannebencardino/pair-programming-why-should-we-pair-every-day-87ed7bd1754e"> <b>Pair programming: Why should we pair every day?</b> </a>*
-  
-  
-#### *TDD: Test-driven development*
+*My blog post about teamwork:<a href="https://medium.com/@tayannebencardino/teamwork-my-experience-at-makers-caf996feb0f5"> <b>TeamWork: my experience at Makers</b> </a>*
 
-At Makers, I learnt how vital testing an application is. Changing the code when a test is ready is a much simpler task. Developers must test quality code before writing it, which is how I plan to work.
+*My blog post about pair programming:<a href="https://medium.com/@tayannebencardino/pair-programming-why-should-we-pair-every-day-87ed7bd1754e"> <b>Pair programming: Why should we pair every day?</b> </a>*
+
+  
+#### *TDD: Test-driven development and attention to detail*
+I developed attention to detail skills during my work at ITH Pharma, when I compounded drugs, and each excess or lack of millilitre of medicine could cause harm to the patient. 
+
+This soft skill helped me at Makers when I started testing each function before writing it and thinking about my expected behaviour. I learnt how vital testing an application is. Changing the code when a test is ready is a much simpler task. Developers must test quality code before writing it, which is how I plan to work.
 
 *My blog post about it:<a href="https://medium.com/@tayannebencardino/lets-code-but-first-tdd-7cec0c1e9e0e"> <b>Let’s code, but first… TDD</b> </a>*
 
 
-#### *React - HTML - CSS*
+#### *Quick learner*
 
-These are front-end skills that I take great pleasure in studying. I am currently taking a course on these three technologies at <a href= "https://www.alura.com.br/"> Alura</a> to be able to apply them to projects that I already have and, in the future, in new projects.
-
-#### *SQL - MongoDB - Excel*
+I adapt easily to different scenarios, and I learn things quickly to develop my programming understanding. I am currently taking a course to learn React, HTML and CSS at <a href= "https://www.alura.com.br/"> Alura</a> to be able to apply them to projects that I already have and, in the future, in new projects. These are front-end skills that I take great pleasure in studying.
 
 SQL and MongoDB were two database technologies I learnt during Makers. Storing user data from the projects created during the course was essential. When I worked at <a href="https://en.wikipedia.org/wiki/Servi%C3%A7o_Social_do_Com%C3%A9rcio"> Sesc </a>, I used Excel to evaluate nutritional data from more than 10,000 children in all Brazilian states to monitor the development of childhood obesity.
 
+Since I decided to study programming, JavaScript has been the language I've always wanted to comprehend. In the beginning, it was pretty challenging. It still is. Whenever I discover something new, I realise that there are ten other things to know about that topic, we are constantly learning and using our brain like we never used it before, and that's what fascinates me about learning within programming.
 
-*My blog post about it:<a href="https://medium.com/@tayannebencardino/creating-tables-into-a-database-postg-14a4ea5e6dca"> <b>Creating tables into a database (PostgreSQL)</b> </a>*
+*My blog post about SQL:<a href="https://medium.com/@tayannebencardino/creating-tables-into-a-database-postg-14a4ea5e6dca"> <b>Creating tables into a database (PostgreSQL)</b> </a>*
 
-#### *Command line - VSCode*
+*My blog post about JavaScript:<a href="https://medium.com/@tayannebencardino/callback-function-84cdc16b5754"> <b>Callback Function</b> </a>*
 
-I used the command line during the Makers pre-course. It was a challenge because I started using Windows Powershell, which didn't work with some functions of creating folders through the terminal, for example. So I switched to AWS, which I didn't adapt much. Soon after, I downloaded the WSL (Windows Subsystem for Linux), the terminal I used until today on my VS code.
+#### *Emotional Intelligence*
 
-*My blog post about it:<a href="https://medium.com/@tayannebencardino/the-magic-black-screen-command-line-c5a43ed412d4"> <b>The magic black screen: Command line</b> </a>*
+I always put myself in the other's shoes to understand why they are talking or acting in a certain way. When I worked at the hospital, I saw many people with serious health problems and understood, listened and gave hope to those people. Sometimes it's something that can make all the difference for them. 
 
-
-#### *JavaScript - JEST*
-
-
-Since I decided to study programming, JS has been the language I've always wanted to comprehend. In the beginning, it was pretty challenging. It still is. Whenever I discover something new, I realise that there are ten other things to know about that topic, we are constantly learning and using our brain like we never used it before, and that's what fascinates me about learning within programming.
-
-*My blog post about it:<a href="https://medium.com/@tayannebencardino/callback-function-84cdc16b5754"> <b>Callback Function</b> </a>*
-
-  
 #### *Languages*
   
-Portuguese (Native) - English (Fluent) - Spanish (Basic)
+English (Fluent) - Portuguese (Native) - Spanish (Basic)
 
 ***
 
@@ -158,5 +148,4 @@ BS Nutrition Sciences, specialising in Food Science
   
 ***
 
-## <a name="my_values">My Values</a> 
-⭐ *Team spirit, Honesty, Positivity, Freedom, Personal Growth* ⭐
+
