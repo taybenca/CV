@@ -145,7 +145,3 @@ BS Nutrition Sciences, specialising in Food Science
 - <b>Blogging</b>: I have been writing in journals since I was 12 years old, when I started writing about everything necessary that happened in my day. Today I have a physical journal in that I mainly write (with colourful pens) about my travels and paste some pictures and stickers. I use <a href="https://medium.com/@tayannebencardino"> Medium </a> to write about my life at Makers, especially about something I found most challenging.
 - <b>Meditation</b>: I do meditation every day for ten minutes after having my breakfast. It's part of my morning habit. Meditation helped me to be more focused on daily tasks.
 - <b>Cooking</b>: I love trying new things, especially foods from different cultures. <a href="https://www.jamieoliver.com/"> Jamie Oliver </a> is an inspiration to me in the kitchen, and I make at least once a month one of his recipes from the book <a href="https://www.amazon.co.uk/5-Ingredients-Quick-Easy-Food/dp/0718187725/ref=asc_df_0718187725/?tag=googshopuk-21&linkCode=df0&hvadid=310842649900&hvpos=&hvnetw=g&hvrand=5584775920870516665&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046008&hvtargid=pla-321978254288&psc=1&th=1&psc=1"> 5 Ingredients - Quick & Easy Food </a>. I also feel very inspired by MasterChef. 🥣
-  
-***
-
-
