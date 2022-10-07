@@ -5,15 +5,10 @@
 
 ###
  
-A Software Engineer interested in front-end development.
+A Full Stack Software Developer.
 
-Before Makers, I graduated in Nutrition Sciences and volunteered in a hospital specialising in treating AIDS. I came to London to learn English and worked making medicines during the pandemic.
-
-At the same time, I spent my nights and weekends focused on starting e-commerce to sell cakes. I took some online marketing and branding courses. As a hobby, I was studying programming logic. When I realised I was already changing careers. 
-
-I have been learning to use Ruby and JavaScript to write web applications at Makers Academy. <a href="https://www.youtube.com/watch?v=Xpqo9LYWCCc"> In my last project</a> at Makers, I had the opportunity to deepen my knowledge in React, a technology that I find fascinating for making our code more organised and flexible.
+I use Ruby, JavaScript annd React to write web applications. <a href="https://www.youtube.com/watch?v=Xpqo9LYWCCc"> In my last project</a> at Makers, I had the opportunity to deepen my knowledge in React, a technology that I find fascinating for making our code more organised and flexible.
 I like being a software engineer because I can practice my creativity and problem-solving ability.
-Working as a team is essential to me as it is a constant way of teaching and learning.
 
 ****
 
