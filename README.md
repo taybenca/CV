@@ -92,11 +92,12 @@ English (Fluent) - Portuguese (Native) - Spanish (Basic)
 
 ## <a name="education">Education</a> ✍
 
-#### <a href="https://www.udacity.com/course/digital-marketing-nanodegree--nd018"> Udacity </a>
-Nanodegree Program, React (Oct 2022 - Present)
-Nanodegree Program, Digital Marketing (Feb 2021 - Jun 2021)
+#### <a href="https://www.udacity.com"> Udacity </a>
+Nanodegree Program
+- React/Redux (Oct 2022 - Present)
+- Digital Marketing (Feb 2021 - Jun 2021)
 
-#### <a href="https://makers.tech/"> Makers Academy </a> (June 2022 to September 2022)
+#### <a href="https://makers.tech/"> Makers Academy </a> (Jun 2022 - Sep 2022)
 Coding bootcamp
 - Use of Ruby and JavaScript with object-oriented programming to build projects.
 - I learnt how to understand the project requirements, create user stories, define MVP's features, and break the features into smaller tasks to accomplish them easily.
@@ -111,7 +112,7 @@ Coding bootcamp
 - <a href="https://cursos.alura.com.br/course/branding"> Branding: creating a strong brand </a>
 
 
-#### <a href="https://en.wikipedia.org/wiki/Federal_University_of_the_State_of_Rio_de_Janeiro"> Federal University of the State of Rio de Janeiro </a> (November 2012 to August 2018)
+#### <a href="https://en.wikipedia.org/wiki/Federal_University_of_the_State_of_Rio_de_Janeiro"> Federal University of the State of Rio de Janeiro </a> (Nov 2012 to Aug 2018)
 BS Nutrition Sciences, specialising in Food Science
 
 ***
