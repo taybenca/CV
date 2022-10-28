@@ -114,6 +114,10 @@ Coding bootcamp
 
 #### <a href="https://en.wikipedia.org/wiki/Federal_University_of_the_State_of_Rio_de_Janeiro"> Federal University of the State of Rio de Janeiro </a> (Nov 2012 to Aug 2018)
 BS Nutrition Sciences, specialising in Food Science
+- Vice president of the academic representatives of the nutrition course. (2016/2017)
+- Responsible for the voice of students in collegiate meetings with university directors and professors.
+
+<i>Soft skill: Leadership.</i>
 
 ***
 
