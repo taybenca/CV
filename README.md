@@ -5,9 +5,8 @@
 
 ###
  
-A Full Stack Software Developer.
-I use Ruby, JavaScript and React to write web applications. <a href="https://www.youtube.com/watch?v=Xpqo9LYWCCc"> In my last project</a> at Makers, I had the opportunity to deepen my knowledge in React, a technology that I find fascinating for making our code more organised and flexible.
-I like being a software engineer because I can practice my creativity and problem-solving ability.
+A Full Stack Software Developer
+who loves practising creativity and problem-solving ability. I'm a fast learner, and I can quickly develop new skills. I'm organised and like to keep things in order. I am skilled in communication, collaboration, pair programming and technical documentation. I value agile methodologies and teams that challenge me. I am current writing a project in React with Udacity.
 
 ****
 
