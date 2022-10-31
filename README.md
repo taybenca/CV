@@ -1,4 +1,4 @@
-<h1><div align="center"> Hey, I'm Tay Bencardino </div></h1>
+<h1><div align="center"> Hey, I'm Tayanne Bencardino </div></h1>
 
 
 <div align="center"> ⭐ <i>Team spirit, Honesty, Positivity, Freedom, Personal Growth</i> ⭐ </div>
