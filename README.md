@@ -25,7 +25,7 @@ who loves practising creativity and problem-solving ability. I'm a fast learner,
 
   </div>
 
-## <div align="center"><a name="projects">Projects</a> </div>
+## <div align="center"><a name="projects">Projects</a></div>
   <div align="center">
     
 Name | Description | External Link | README | Technologies | Languages
