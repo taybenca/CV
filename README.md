@@ -94,7 +94,7 @@ English (Fluent) - Portuguese (Native) - Spanish (Basic)
 
 #### <a href="https://www.udacity.com"> Udacity </a>
 Nanodegree Program
-- React/Redux (Oct 2022 - Present)
+- React/Redux (Oct 2022 - Jan 2023)
 - Digital Marketing (Feb 2021 - Jun 2021)
 
 #### <a href="https://makers.tech/"> Makers Academy </a> (Jun 2022 - Sep 2022)
